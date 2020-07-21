@@ -266,7 +266,7 @@ video{
 ******************************/
 @media only screen and (max-width: 1280px){
     #intro-container{
-        width: 600px;
+        width: 500px;
     }
 
     #intro h1{
@@ -278,7 +278,7 @@ video{
     }
 
     .contact h2{
-        font-size: 25px;
+        font-size: 20px;
     }
 }
 
