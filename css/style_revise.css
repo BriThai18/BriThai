@@ -264,9 +264,9 @@ video{
 /******************************
     Screen
 ******************************/
-@media only screen and (max-width: 1280px){
+@media only screen and (max-width: 1024px){
     #intro-container{
-        width: 500px;
+        width: 550px;
     }
 
     #intro h1{
@@ -274,11 +274,11 @@ video{
     }
 
     .contact{
-        width: 500px;
+        width: 600px;
     }
 
     .contact h2{
-        font-size: 20px;
+        font-size: 25px;
     }
 }
 
@@ -301,24 +301,6 @@ video{
     }
 }
 
-@media only screen and (max-width: 480px){
-    #intro-container{
-        width: 350px;
-    }
-
-    #intro h1{
-        font-size: 4em;
-        border-bottom: 1px solid black;
-    }
-
-    .contact{
-        width: 350px;
-    }
-
-    .contact h2{
-        font-size: 15px;
-    }
-}
 
 
 
